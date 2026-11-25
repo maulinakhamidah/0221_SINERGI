@@ -27,7 +27,7 @@ Minggu ke-3
 
 Senin, 23 November 2026
 
-Aktivitas: Penyesuaian arsitektur sistem dan dokumen SRS sesuai arahan tugas: migrasi rencana basis data ke PostgreSQL Backend REST API, perumusan kebutuhan fungsional Bab 3 sampai Bab 6, serta pembuatan draf awal diagram use case, flowchart, dan rancangan tabel database. Output: Pembaruan draf SRS. Status: Selesai.
+Aktivitas: Penyesuaian arsitektur sistem dan dokumen SRS sesuai arahan tugas: migrasi rencana basis data ke PostgreSQL Backend REST API, perumusan kebutuhan fungsional Bab 3 sampai Bab 6, serta pembuatan draf awal diagram use case, flowchart, dan rancangan tabel database. 
 
 Rabu, 25 November 2026
 
